@@ -1,0 +1,9 @@
+list=[1,2,3,4,5]
+list.append(6)
+print(list)
+list.remove(5)
+print(list)
+L=max(list)
+print("a:",L)
+L=min(list)
+print("b:",L)
