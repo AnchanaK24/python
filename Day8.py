@@ -54,7 +54,7 @@ except NameError:
     print("x is not defined")
     
 #ex4
-Try-except is not required hen there is no runtime error
+Try-except is not required when there is no runtime error
 
 #ex5
 try:
